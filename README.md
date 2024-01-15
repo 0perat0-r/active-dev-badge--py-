@@ -14,7 +14,7 @@ Part 2, running the script/code;
 3. Make a python repl
 4. Paste the code from my main.py to your's in replit
 5. Add your bot token as a secret, use Replit's tutorial to get it.
-6. Put your token in the "bot.run(token)"
+6. Put your token in the place of "YOUR_TOKEN" in "bot.run()"
 7. Run the repl
 
 Part 3, getting the badge;
